@@ -1,0 +1,8 @@
+magic-pdf[full]
+sentence-transformers
+qdrant-client
+transformers
+torch
+datasets
+einops
+xformers
