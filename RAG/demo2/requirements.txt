@@ -1,8 +1,5 @@
-magic-pdf[full]
-sentence-transformers
+torch
 qdrant-client
 transformers
-torch
-datasets
-einops
-xformers
+pymupdf
+loguru

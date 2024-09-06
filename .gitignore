@@ -146,3 +146,5 @@ cython_debug/
 .python-version
 
 data/
+
+output/
