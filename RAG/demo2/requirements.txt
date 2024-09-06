@@ -1,0 +1,5 @@
+torch
+qdrant-client
+transformers
+pymupdf
+loguru
