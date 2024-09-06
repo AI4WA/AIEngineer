@@ -1,0 +1,9 @@
+openai==1.43.1
+requests==2.32.3
+loguru==0.7.2
+pandas==2.2.2
+tiktoken==0.7.0
+beautifulsoup4
+matplotlib
+python-dotenv
+pyarrow
